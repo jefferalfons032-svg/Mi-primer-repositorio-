@@ -1,1 +1,3 @@
-Mi primer ejercicio en GitHub.
+Mi primer ejercicio en GitHub :3
+
+Aprendiendo a utilizar Pull Request.
